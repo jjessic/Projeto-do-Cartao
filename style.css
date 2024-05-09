@@ -1,0 +1,129 @@
+.mb_sm {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 100%;
+    font-weight: 500;
+    min-height: 100v;
+    margin-left: 550px;
+    margin-top: 200px;
+}
+
+.form__input {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 100%;
+    font-weight: 500;
+    min-height: 100v;
+    width: 243px;
+    height: 30px;
+    border-radius: 8px;
+    border-width: 1.5px;
+    border-color: rgb(236, 236, 236);
+    margin-left: 550px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form___input {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 100%;
+    font-weight: 500;
+    width: 243px;
+    height: 30px;
+    justify-content: space-between;
+    border-radius: 8px;
+    border-width: 1.5px;
+    border-color: rgb(236, 236, 236);
+    margin-left: 550px;
+    margin-bottom: 10px;
+}
+
+
+.mb-sm {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 100%;
+    font-weight: 500;
+    min-height: 100v;
+    width: 250px;
+    height: 30px;
+    margin-left: 550px;
+    margin-top: 0px;
+}
+
+.form__input {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 100%;
+    font-weight: 500;
+    min-height: 100v;
+    width: 250px;
+    height: 30px;
+    border-radius: 8px;
+    border-width: 1.5px;
+    border-color: rgb(236, 236, 236);
+}
+
+.mb-sm {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 100%;
+    font-weight: 500;
+    min-height: 100v;
+    margin-left: 550px;
+    margin-top: 0px;
+}
+
+
+.form__input-divided {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 100%;
+    font-weight: 500;
+    min-height: 100v;
+    width: 50px;
+    height: 30px;
+    border-radius: 8px;
+    border-width: 1.5px;
+    border-color: rgb(236, 236, 236);
+    margin-left: 550px;
+    margin-top: 0px;
+}
+
+.form___input-divided {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 100%;
+    font-weight: 500;
+    min-height: 100v;
+    width: 50px;
+    height: 30px;
+    border-radius: 8px;
+    border-width: 1.5px;
+    border-color: rgb(236, 236, 236);
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.form_input {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 100%;
+    font-weight: 500;
+    min-height: 100v;
+    width: 83px;
+    height: 30px;
+    border-radius: 8px;
+    border-width: 1.5px;
+    border-color: rgb(236, 236, 236);
+    display: inline-flex;
+}
+
+.buttonConfirm {
+    background-color: #21092f;
+    color: white;
+    width: 250px;
+    height: 35px;
+    border-radius: 8px;
+    border-width: 1.3px;
+    top: 380px;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 45px;
+}
+
+label {
+    display: block;
+}
